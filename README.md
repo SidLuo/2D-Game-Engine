@@ -190,7 +190,7 @@ JUnit tests for the MathUtils and GameObject class. They use JUnit 4.
 
 We have provided a class called TestShapes.java. This is a simple class with a main method that creates a polygon, 2 circles and 2 lines. This file can be used as a starting point for testing your PolygonalGameObject, CircularGameObject and LineGameObject. Once you have implemented the relevant classes (including the Camera which is used in this test class), it should display the following:
 
-![alt text](https://www.cse.unsw.edu.au/~cs3421/17s2/assignments/TestShapes.PNG "Shape Tests")
+![alt text](https://github.com/SidLuo/2D-Game-Engine/blob/main/TestShapes.png "Shape Tests")
 
 Note: You still need to do your own testing. This only tests a few basics.
 

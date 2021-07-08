@@ -1,6 +1,8 @@
 # 2D-Game-Engine
 A 2D Game Engine that implements a scene-graph based game engine and use it to make a simple game (or animation).
 
+JOGL Set up: https://webcms3.cse.unsw.edu.au/COMP3421/17s2/resources/9436
+
 ## Intro
 
 For the first assignment you will be building a simple 2D game engine.
